@@ -83,7 +83,7 @@
     "@vitest/coverage-v8": "^4.0.2",
     "@vitest/ui": "^4.0.2",
     "babel-plugin-transform-imports": "git+https://git@github.com/fabricjs/babel-plugin-transform-imports.git",
-    "commander": "^14.0.1",
+    "commander": "^15.1.0",
     "es-toolkit": "1.40.0",
     "eslint-config-prettier": "^10.1.8",
     "inquirer": "^12.9.6",
